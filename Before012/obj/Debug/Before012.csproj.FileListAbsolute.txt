@@ -1,0 +1,5 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before012\bin\Debug\Before012.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before012\bin\Debug\Before012.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before012\bin\Debug\Before012.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before012\obj\Debug\Before012.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before012\obj\Debug\Before012.pdb

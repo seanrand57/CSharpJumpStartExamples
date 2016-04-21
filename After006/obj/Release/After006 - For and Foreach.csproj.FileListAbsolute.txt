@@ -1,0 +1,4 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After006\bin\Release\After006.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After006\bin\Release\After006.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After006\obj\Release\After006.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After006\obj\Release\After006.pdb

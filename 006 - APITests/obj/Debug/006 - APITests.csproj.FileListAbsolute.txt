@@ -1,0 +1,4 @@
+E:\Dev\GitHub\CSharpJumpStartExamples\006 - APITests\bin\Debug\006 - APITests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\006 - APITests\bin\Debug\006 - APITests.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\006 - APITests\obj\Debug\006 - APITests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\006 - APITests\obj\Debug\006 - APITests.pdb

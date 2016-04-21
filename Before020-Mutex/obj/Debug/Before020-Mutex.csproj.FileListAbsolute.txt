@@ -1,0 +1,5 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before020-Mutex\bin\Debug\Before020-Mutex.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before020-Mutex\bin\Debug\Before020-Mutex.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before020-Mutex\bin\Debug\Before020-Mutex.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before020-Mutex\obj\Debug\Before020-Mutex.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before020-Mutex\obj\Debug\Before020-Mutex.pdb

@@ -1,0 +1,8 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-NewVirtualOverride\bin\Debug\After037-NewVirtualOverride.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-NewVirtualOverride\bin\Debug\After037-NewVirtualOverride.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-NewVirtualOverride\obj\Debug\After037-NewVirtualOverride.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After037-NewVirtualOverride\obj\Debug\After037-NewVirtualOverride.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After037-NewVirtualOverride\bin\Debug\After037-NewVirtualOverride.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After037-NewVirtualOverride\bin\Debug\After037-NewVirtualOverride.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After037-NewVirtualOverride\obj\Debug\After037-NewVirtualOverride.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After037-NewVirtualOverride\obj\Debug\After037-NewVirtualOverride.pdb

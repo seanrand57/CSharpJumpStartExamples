@@ -1,0 +1,9 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After033\bin\Debug\After033.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After033\bin\Debug\After033.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After033\obj\Debug\After033 - Query and Method Syntax.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After033\obj\Debug\After033.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After033\obj\Debug\After033.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After033\bin\Debug\After033.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After033\bin\Debug\After033.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After033\obj\Debug\After033.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After033\obj\Debug\After033.pdb

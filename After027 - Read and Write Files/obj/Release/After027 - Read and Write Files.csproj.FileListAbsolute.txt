@@ -1,0 +1,5 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\bin\Release\After023.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\bin\Release\After023.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\bin\Release\After023.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\obj\Release\After023.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\obj\Release\After023.pdb

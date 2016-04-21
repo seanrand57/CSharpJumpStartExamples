@@ -1,0 +1,12 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\bin\Debug\After035_WinMD.winmd
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\bin\Debug\After035_WinMD.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\bin\Debug\After035_WinMD.pri
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\After035_WinMD.winmd
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\After035_WinMD.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\After035_WinMD.winmdobj
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\After035_WinMD.compile.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\priconfig.xml
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\layout.resfiles
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\resources.resfiles
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\pri.resfiles
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\obj\Debug\LanguageQualifiers.txt

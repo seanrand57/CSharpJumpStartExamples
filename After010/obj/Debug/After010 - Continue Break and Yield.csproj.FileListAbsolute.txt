@@ -1,0 +1,11 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\bin\Debug\After010.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\bin\Debug\After010.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\bin\Debug\After010.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\obj\Debug\After010 - Continue Break and Yield.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\obj\Debug\After010.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\obj\Debug\After010.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After010\bin\Debug\After010.exe.config
+E:\Dev\GitHub\CSharpJumpStartExamples\After010\bin\Debug\After010.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After010\bin\Debug\After010.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After010\obj\Debug\After010.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After010\obj\Debug\After010.pdb

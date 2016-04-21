@@ -1,0 +1,5 @@
+E:\Dev\GitHub\CSharpJumpStartExamples\SeleniumWebDrivenTests\bin\Debug\SeleniumWebDrivenTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\SeleniumWebDrivenTests\bin\Debug\SeleniumWebDrivenTests.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\SeleniumWebDrivenTests\obj\Debug\004 - SeleniumWebDrivenTests.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpJumpStartExamples\SeleniumWebDrivenTests\obj\Debug\SeleniumWebDrivenTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\SeleniumWebDrivenTests\obj\Debug\SeleniumWebDrivenTests.pdb

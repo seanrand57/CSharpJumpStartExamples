@@ -1,0 +1,11 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After034\bin\Debug\After034.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After034\bin\Debug\After034.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After034\bin\Debug\After034.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After034\obj\Debug\After034 - Linq to XML.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After034\obj\Debug\After034.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After034\obj\Debug\After034.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After034\bin\Debug\After034.exe.config
+E:\Dev\GitHub\CSharpJumpStartExamples\After034\bin\Debug\After034.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After034\bin\Debug\After034.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After034\obj\Debug\After034.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After034\obj\Debug\After034.pdb

@@ -1,0 +1,5 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After007\bin\Release\After007.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After007\bin\Release\After007.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After007\bin\Release\After007.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After007\obj\Release\After007.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After007\obj\Release\After007.pdb

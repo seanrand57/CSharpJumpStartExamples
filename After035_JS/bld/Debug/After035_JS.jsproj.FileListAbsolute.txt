@@ -1,0 +1,13 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bin\Debug\resources.pri
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bin\Debug\AppxManifest.xml
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bin\Debug\After035_JS.build.appxrecipe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bin\Debug\After035_WinMD.winmd
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bin\Debug\After035_WinMD.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bin\Debug\After035_WinMD.pri
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bld\Debug\After035_JS.jsprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bld\Debug\priconfig.xml
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bld\Debug\layout.resfiles
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bld\Debug\resources.resfiles
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bld\Debug\pri.resfiles
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bld\Debug\LanguageQualifiers.txt
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\bld\Debug\ProjectArchitectures.txt

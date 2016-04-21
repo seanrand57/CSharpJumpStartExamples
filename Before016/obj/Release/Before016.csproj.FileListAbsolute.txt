@@ -1,0 +1,13 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\bin\Release\Before016.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\bin\Release\Before016.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\bin\Release\Before016.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\Before016.csprojResolveAssemblyReference.cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\MainWindow.baml
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\MainWindow.g.cs
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\App.g.cs
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\Before016_MarkupCompile.cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\Before016.g.resources
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\Before016.Properties.Resources.resources
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\Before016.csproj.GenerateResource.Cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\Before016.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before016\obj\Release\Before016.pdb

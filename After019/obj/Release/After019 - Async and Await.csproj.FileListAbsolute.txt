@@ -1,0 +1,6 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After019\bin\Release\After019.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After019\bin\Release\After019.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After019\bin\Release\After019.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After019\obj\Release\After019 - Async and Await.csprojResolveAssemblyReference.cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After019\obj\Release\After019.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After019\obj\Release\After019.pdb

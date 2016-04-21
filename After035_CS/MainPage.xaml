@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="After035_CS.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:After035_CS"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <StackPanel RenderTransformOrigin="0,0">
+            <StackPanel.RenderTransform>
+                <CompositeTransform ScaleX="3" ScaleY="3"/>
+            </StackPanel.RenderTransform>
+            <TextBlock>XAML</TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="text1" Text="1" />
+                <TextBlock>+</TextBlock>
+                <TextBox x:Name="text2" Text="2" />
+                <Button Click="Button_Click_1">=</Button>
+                <TextBox x:Name="text3" Text="0" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>

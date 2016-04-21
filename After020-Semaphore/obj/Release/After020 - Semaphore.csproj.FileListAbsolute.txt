@@ -1,0 +1,5 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After020-Semaphore\bin\Release\After020-Semaphore.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After020-Semaphore\bin\Release\After020-Semaphore.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After020-Semaphore\bin\Release\After020-Semaphore.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After020-Semaphore\obj\Release\After020-Semaphore.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After020-Semaphore\obj\Release\After020-Semaphore.pdb

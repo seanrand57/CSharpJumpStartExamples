@@ -1,0 +1,5 @@
+E:\Dev\GitHub\CSharpJumpStartExamples\IntegrationTests\bin\Debug\IntegrationTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\IntegrationTests\bin\Debug\IntegrationTests.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\IntegrationTests\obj\Debug\002 -IntegrationTests.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpJumpStartExamples\IntegrationTests\obj\Debug\IntegrationTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\IntegrationTests\obj\Debug\IntegrationTests.pdb

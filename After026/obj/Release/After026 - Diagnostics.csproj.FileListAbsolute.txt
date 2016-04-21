@@ -1,0 +1,5 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\obj\Release\After026.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\obj\Release\After026.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\bin\Release\After026.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\bin\Release\After026.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\obj\Release\After026 - Diagnostics.csprojResolveAssemblyReference.cache

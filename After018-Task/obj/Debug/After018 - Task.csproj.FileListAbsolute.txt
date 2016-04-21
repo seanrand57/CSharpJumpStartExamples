@@ -1,0 +1,10 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-Task\bin\Debug\After018-Task.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-Task\bin\Debug\After018-Task.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-Task\bin\Debug\After018-Task.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-Task\obj\Debug\After018-Task.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-Task\obj\Debug\After018-Task.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After018-Task\bin\Debug\After018-Task.exe.config
+E:\Dev\GitHub\CSharpJumpStartExamples\After018-Task\bin\Debug\After018-Task.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After018-Task\bin\Debug\After018-Task.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After018-Task\obj\Debug\After018-Task.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After018-Task\obj\Debug\After018-Task.pdb

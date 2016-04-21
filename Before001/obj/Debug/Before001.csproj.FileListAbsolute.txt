@@ -1,0 +1,5 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before001\bin\Debug\Before001.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before001\bin\Debug\Before001.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before001\obj\Debug\Before001.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before001\obj\Debug\Before001.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before001\obj\Debug\Before001.pdb

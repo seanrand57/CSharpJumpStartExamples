@@ -1,0 +1,8 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After031\bin\Debug\After031.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After031\bin\Debug\After031.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After031\obj\Debug\After031.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After031\obj\Debug\After031.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After031\bin\Debug\After031.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After031\bin\Debug\After031.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After031\obj\Debug\After031.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After031\obj\Debug\After031.pdb

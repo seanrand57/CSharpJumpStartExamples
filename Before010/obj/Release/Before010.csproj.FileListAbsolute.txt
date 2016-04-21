@@ -1,0 +1,6 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before010\bin\Release\Before010.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before010\bin\Release\Before010.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before010\bin\Release\Before010.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before010\obj\Release\Before010.csprojResolveAssemblyReference.cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before010\obj\Release\Before010.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before010\obj\Release\Before010.pdb

@@ -1,0 +1,11 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\obj\Debug\After027 - Read and Write Files.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\bin\Debug\After023.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\bin\Debug\After023.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\bin\Debug\After023.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\obj\Debug\After023.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After027 - Read and Write Files\obj\Debug\After023.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After027 - Read and Write Files\bin\Debug\After023.exe.config
+E:\Dev\GitHub\CSharpJumpStartExamples\After027 - Read and Write Files\bin\Debug\After023.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After027 - Read and Write Files\bin\Debug\After023.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After027 - Read and Write Files\obj\Debug\After023.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After027 - Read and Write Files\obj\Debug\After023.pdb

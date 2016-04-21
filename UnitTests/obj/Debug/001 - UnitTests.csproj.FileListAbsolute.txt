@@ -1,0 +1,5 @@
+E:\Dev\GitHub\CSharpJumpStartExamples\UnitTests\bin\Debug\UnitTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\UnitTests\bin\Debug\UnitTests.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\UnitTests\obj\Debug\001 - UnitTests.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpJumpStartExamples\UnitTests\obj\Debug\UnitTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\UnitTests\obj\Debug\UnitTests.pdb

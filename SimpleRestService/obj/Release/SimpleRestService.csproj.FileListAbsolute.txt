@@ -1,0 +1,5 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\SimpleRestService\bin\SimpleRestService.dll
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\SimpleRestService\bin\SimpleRestService.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\SimpleRestService\obj\Release\SimpleRestService.csprojResolveAssemblyReference.cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\SimpleRestService\obj\Release\SimpleRestService.dll
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\SimpleRestService\obj\Release\SimpleRestService.pdb

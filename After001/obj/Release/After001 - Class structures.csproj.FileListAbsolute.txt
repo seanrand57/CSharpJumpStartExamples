@@ -1,0 +1,5 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After001\bin\Release\After001.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After001\bin\Release\After001.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After001\obj\Release\After001 - Class structures.csprojResolveAssemblyReference.cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After001\obj\Release\After001.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After001\obj\Release\After001.pdb

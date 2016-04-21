@@ -1,0 +1,6 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\bin\Release\After010.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\bin\Release\After010.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\bin\Release\After010.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\obj\Release\After010 - Continue Break and Yield.csprojResolveAssemblyReference.cache
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\obj\Release\After010.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After010\obj\Release\After010.pdb

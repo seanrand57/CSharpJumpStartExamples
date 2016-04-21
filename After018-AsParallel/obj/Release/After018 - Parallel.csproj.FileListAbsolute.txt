@@ -1,0 +1,5 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-AsParallel\bin\Release\After018-AsParallel.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-AsParallel\bin\Release\After018-AsParallel.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-AsParallel\bin\Release\After018-AsParallel.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-AsParallel\obj\Release\After018-AsParallel.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After018-AsParallel\obj\Release\After018-AsParallel.pdb

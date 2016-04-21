@@ -1,0 +1,9 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\bin\Debug\After026.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\bin\Debug\After026.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\obj\Debug\After026 - Diagnostics.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\obj\Debug\After026.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After026\obj\Debug\After026.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After026\bin\Debug\After026.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After026\bin\Debug\After026.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After026\obj\Debug\After026.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After026\obj\Debug\After026.pdb

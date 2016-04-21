@@ -1,0 +1,4 @@
+E:\Dev\GitHub\CSharpJumpStartExamples\BDDSpecflowTests\bin\Debug\BDDSpecflowTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\BDDSpecflowTests\bin\Debug\BDDSpecflowTests.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\BDDSpecflowTests\obj\Debug\BDDSpecflowTests.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\BDDSpecflowTests\obj\Debug\BDDSpecflowTests.pdb

@@ -1,0 +1,5 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After001\obj\Debug\After001 - Class structures.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpJumpStartExamples\After001\bin\Debug\After001.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After001\bin\Debug\After001.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After001\obj\Debug\After001.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After001\obj\Debug\After001.pdb

@@ -1,0 +1,9 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After032-PortableClassLibrary\bin\Debug\After032-PortableClassLibrary.dll
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After032-PortableClassLibrary\bin\Debug\After032-PortableClassLibrary.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After032-PortableClassLibrary\obj\Debug\After032-PortableClassLibrary.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After032-PortableClassLibrary\obj\Debug\After032-PortableClassLibrary.dll
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After032-PortableClassLibrary\obj\Debug\After032-PortableClassLibrary.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After032-PortableClassLibrary\bin\Debug\After032-PortableClassLibrary.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\After032-PortableClassLibrary\bin\Debug\After032-PortableClassLibrary.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After032-PortableClassLibrary\obj\Debug\After032-PortableClassLibrary.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\After032-PortableClassLibrary\obj\Debug\After032-PortableClassLibrary.pdb

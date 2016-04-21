@@ -1,0 +1,5 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before018-Task\bin\Release\Before018-Task.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before018-Task\bin\Release\Before018-Task.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before018-Task\bin\Release\Before018-Task.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before018-Task\obj\Release\Before018-Task.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\Before018-Task\obj\Release\Before018-Task.pdb

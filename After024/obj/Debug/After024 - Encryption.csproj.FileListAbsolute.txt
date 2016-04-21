@@ -1,0 +1,9 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After024\bin\Debug\After024.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After024\bin\Debug\After024.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After024\obj\Debug\After024 - Encryption.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After024\obj\Debug\After024.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After024\obj\Debug\After024.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After024\bin\Debug\After024.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After024\bin\Debug\After024.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After024\obj\Debug\After024.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After024\obj\Debug\After024.pdb

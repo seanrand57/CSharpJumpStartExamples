@@ -1,0 +1,6 @@
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After029\bin\Debug\After029.exe.config
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After029\bin\Debug\After029.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After029\bin\Debug\After029.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After029\obj\Debug\After029.exe
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After029\obj\Debug\After029.pdb
+c:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After029\obj\Debug\After029 - REST !.csprojResolveAssemblyReference.cache

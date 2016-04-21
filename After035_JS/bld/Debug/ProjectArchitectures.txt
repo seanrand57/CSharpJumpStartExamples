@@ -1,0 +1,2 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_JS\After035_JS.jsproj;neutral
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After035_WinMD\After035_WinMD.csproj;neutral

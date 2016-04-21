@@ -1,0 +1,4 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After023\obj\Debug\After023 - Input Validation ! J.csprojResolveAssemblyReference.cache
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After023\obj\Debug\After023.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After023\obj\Debug\After023.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After023\bin\Debug\After023.exe.config

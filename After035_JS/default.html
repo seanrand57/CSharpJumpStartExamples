@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>After035_JS</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- After035_JS references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/default.js"></script>
+
+    <script>
+        function DoWork() {
+            text3.value = After035_WinMD.Logic.add(text1.value, text2.value);
+        };
+    </script>
+
+</head>
+<body>
+    <p>JavaScript</p>
+    <input id="text1" type="text" value="1">
+    +
+	<input id="text2" type="text" value="2">
+    <button onclick="DoWork();">=</button>
+    <input id="text3" type="text" value="0">
+</body>
+</html>

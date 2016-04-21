@@ -1,0 +1,11 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After005\bin\Debug\After005.exe.config
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After005\bin\Debug\After005.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After005\bin\Debug\After005.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After005\obj\Debug\After005.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After005\obj\Debug\After005.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After005\obj\Debug\After005 - Streams.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpJumpStartExamples\After005\bin\Debug\After005.exe.config
+E:\Dev\GitHub\CSharpJumpStartExamples\After005\bin\Debug\After005.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After005\bin\Debug\After005.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After005\obj\Debug\After005.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After005\obj\Debug\After005.pdb

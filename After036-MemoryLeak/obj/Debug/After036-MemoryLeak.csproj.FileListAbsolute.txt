@@ -1,0 +1,8 @@
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After036-MemoryLeak\bin\Debug\After036-MemoryLeak.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After036-MemoryLeak\bin\Debug\After036-MemoryLeak.pdb
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After036-MemoryLeak\obj\Debug\After036-MemoryLeak.exe
+C:\tfs.jerrynixon\JUMPSTART\JumpstartDemos\After036-MemoryLeak\obj\Debug\After036-MemoryLeak.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After036-MemoryLeak\bin\Debug\After036-MemoryLeak.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After036-MemoryLeak\bin\Debug\After036-MemoryLeak.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\After036-MemoryLeak\obj\Debug\After036-MemoryLeak.exe
+E:\Dev\GitHub\CSharpJumpStartExamples\After036-MemoryLeak\obj\Debug\After036-MemoryLeak.pdb

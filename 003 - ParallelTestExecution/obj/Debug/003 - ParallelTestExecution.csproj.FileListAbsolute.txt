@@ -1,0 +1,5 @@
+E:\Dev\GitHub\CSharpJumpStartExamples\003 - ParallelTestExecution\bin\Debug\003 - ParallelTestExecution.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\003 - ParallelTestExecution\bin\Debug\003 - ParallelTestExecution.pdb
+E:\Dev\GitHub\CSharpJumpStartExamples\003 - ParallelTestExecution\obj\Debug\003 - ParallelTestExecution.csprojResolveAssemblyReference.cache
+E:\Dev\GitHub\CSharpJumpStartExamples\003 - ParallelTestExecution\obj\Debug\003 - ParallelTestExecution.dll
+E:\Dev\GitHub\CSharpJumpStartExamples\003 - ParallelTestExecution\obj\Debug\003 - ParallelTestExecution.pdb
